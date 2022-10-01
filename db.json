@@ -1,36 +1,44 @@
 {
-	"users": {
-		"1": {
-			"name": "Jay Parmar",
-            "image_url":"https://cms.atmiya.edu.in/images/Stud_Photo/15110621090.JPG",
-			"enrollment_no": 211002028,
-			"reg_no": 41132412343,
-			"dob": "11-11-2002",
-			"mobile": 1234567890
+	"users": [
+		{
+			"1": {
+				"name": "Jay Parmar",
+				"image_url": "https://cms.atmiya.edu.in/images/Stud_Photo/15110621090.JPG",
+				"enrollment_no": 211002028,
+				"reg_no": 41132412343,
+				"dob": "11-11-2002",
+				"mobile": 1234567890
+			}
 		},
-		"2": {
-			"name": "Harshad Sorthiya",
-            "image_url":"https://cms.atmiya.edu.in/images/Stud_Photo/15110621093.JPG",
-			"enrollment_no": 211432414,
-			"reg_no": 41234141324,
-			"dob": "01-02-2003",
-			"mobile": 1937402749
+		{
+			"2": {
+				"name": "Harshad Sorthiya",
+				"image_url": "https://cms.atmiya.edu.in/images/Stud_Photo/15110621093.JPG",
+				"enrollment_no": 211432414,
+				"reg_no": 41234141324,
+				"dob": "01-02-2003",
+				"mobile": 1937402749
+			}
 		},
-		"3": {
-			"name": "Om Joshi",
-            "image_url":"https://cms.atmiya.edu.in/images/Stud_Photo/15110621001.JPG",
-			"enrollment_no": 211412341,
-			"reg_no": 43124123412,
-			"dob": "15-04-2000",
-			"mobile": 52455252345
+		{
+			"3": {
+				"name": "Om Joshi",
+				"image_url": "https://cms.atmiya.edu.in/images/Stud_Photo/15110621001.JPG",
+				"enrollment_no": 211412341,
+				"reg_no": 43124123412,
+				"dob": "15-04-2000",
+				"mobile": 52455252345
+			}
 		},
-		"4": {
-			"name": "Dhruv Chauhan",
-            "image_url":"https://cms.atmiya.edu.in/images/Stud_Photo/15110621015.JPG",
-			"enrollment_no": 211321491,
-			"reg_no": 41234123423,
-			"dob": "22-04-2001",
-			"mobile": 2534523452
+		{
+			"4": {
+				"name": "Dhruv Chauhan",
+				"image_url": "https://cms.atmiya.edu.in/images/Stud_Photo/15110621015.JPG",
+				"enrollment_no": 211321491,
+				"reg_no": 41234123423,
+				"dob": "22-04-2001",
+				"mobile": 2534523452
+			}
 		}
-	}
+	]
 }
